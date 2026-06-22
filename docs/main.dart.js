@@ -21721,7 +21721,7 @@ $iPK:1}
 A.aau.prototype={
 $1(a){var s=A.cm().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/77e2e94772b6eb43759e34ed1ad7da4674e19cab/":s)+a},
+return(s==null?"canvaskit/":s)+a},
 $S:79}
 A.FR.prototype={
 gAL(){var s=this.b
